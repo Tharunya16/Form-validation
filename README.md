@@ -1,4 +1,4 @@
-**#CONTACT FROM WITH VALIDATION**
+# CONTACT US FORM WITH VALIDATION
 This is a simple Contact Us Form made using HTML, CSS, and JavaScript. It allows users to enter their name, email, feedback, and rating.
 The form checks if the user enters valid details before submitting. It shows error messages for:
 ## FEATURES
